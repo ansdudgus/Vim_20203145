@@ -4,7 +4,7 @@
 
 *2.
 
-*3.  <Down><Down><Down>O// TODO<Esc>yyi<Left><Left><Left>Version <Esc><Down>pi<Right><Right> Debug<Esc>:wq<CR> => 43점
+*3. O -> <Esc> -> i -> p -> i -> Esc  => 43점
 
 *4.
 
